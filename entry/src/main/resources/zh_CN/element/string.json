@@ -1,0 +1,204 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "month_expenses",
+      "value": "本月支出"
+    },
+    {
+      "name": "unit",
+      "value": "元"
+    },
+    {
+      "name": "month_no_expenses",
+      "value": "本月暂无支出"
+    },
+    {
+      "name": "income_month",
+      "value": "本月收入"
+    },
+    {
+      "name": "month_no_income",
+      "value": "暂无收入"
+    },
+    {
+      "name": "empty_tip",
+      "value": "我的钱去哪了，赶紧来记录一下吧"
+    },
+    {
+      "name": "diet",
+      "value": "早午晚餐"
+    },
+    {
+      "name": "healthy",
+      "value": "医疗"
+    },
+    {
+      "name": "house",
+      "value": "住房"
+    },
+    {
+      "name": "snack",
+      "value": "零食烟酒"
+    },
+    {
+      "name": "study",
+      "value": "学习"
+    },
+    {
+      "name": "communicate",
+      "value": "通讯"
+    },
+    {
+      "name": "social",
+      "value": "社交"
+    },
+    {
+      "name": "investment_expenditure",
+      "value": "投资支出"
+    },
+    {
+      "name": "shopping",
+      "value": "购物"
+    },
+    {
+      "name": "entertainment",
+      "value": "娱乐"
+    },
+    {
+      "name": "loan",
+      "value": "外借"
+    },
+    {
+      "name": "other_expenses",
+      "value": "其他支出"
+    },
+    {
+      "name": "salary",
+      "value": "工资"
+    },
+    {
+      "name": "bonus",
+      "value": "奖金"
+    },
+    {
+      "name": "interest",
+      "value": "利息"
+    },
+    {
+      "name": "invest",
+      "value": "投资"
+    },
+    {
+      "name": "part_time",
+      "value": "兼职"
+    },
+    {
+      "name": "red_envelope",
+      "value": "红包转账"
+    },
+    {
+      "name": "borrow",
+      "value": "借入"
+    },
+    {
+      "name": "other_income",
+      "value": "其他收入"
+    },
+    {
+      "name": "expenditure",
+      "value": "支出"
+    },
+    {
+      "name": "income",
+      "value": "收入"
+    },
+    {
+      "name": "bill_amount",
+      "value": "账单金额"
+    },
+    {
+      "name": "statistics_details",
+      "value": "统计明细"
+    },
+    {
+      "name": "monthly_bill",
+      "value": "月账单"
+    },
+    {
+      "name": "annual_bill",
+      "value": "年账单"
+    },
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "statistics",
+      "value": "统计"
+    },
+    {
+      "name": "back",
+      "value": "返回"
+    },
+    {
+      "name": "no_expenses",
+      "value": "无支出"
+    },
+    {
+      "name": "no_income",
+      "value": "无收入"
+    },
+    {
+      "name": "by_date",
+      "value": "按日期"
+    },
+    {
+      "name": "by_category",
+      "value": "按分类"
+    },
+    {
+      "name": "all_expenses",
+      "value": "总支出"
+    },
+    {
+      "name": "all_income",
+      "value": "总收入"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "make_another_note",
+      "value": "再记一笔"
+    },
+    {
+      "name": "transport",
+      "value": "交通运输"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "detail",
+      "value": "详情"
+    }
+  ]
+}

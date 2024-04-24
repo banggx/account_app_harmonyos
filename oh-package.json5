@@ -1,0 +1,14 @@
+{
+  "name": "account_app",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  }
+}

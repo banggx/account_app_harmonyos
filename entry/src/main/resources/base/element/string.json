@@ -1,0 +1,204 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "month_expenses",
+      "value": "month_expenses"
+    },
+    {
+      "name": "unit",
+      "value": "unit"
+    },
+    {
+      "name": "month_no_expenses",
+      "value": "month_no_expenses"
+    },
+    {
+      "name": "income_month",
+      "value": "income_month"
+    },
+    {
+      "name": "month_no_income",
+      "value": "month_no_income"
+    },
+    {
+      "name": "empty_tip",
+      "value": "empty_tip"
+    },
+    {
+      "name": "diet",
+      "value": "diet"
+    },
+    {
+      "name": "healthy",
+      "value": "healthy"
+    },
+    {
+      "name": "transport",
+      "value": "transport"
+    },
+    {
+      "name": "house",
+      "value": "house"
+    },
+    {
+      "name": "snack",
+      "value": "snack"
+    },
+    {
+      "name": "study",
+      "value": "study"
+    },
+    {
+      "name": "communicate",
+      "value": "communicate"
+    },
+    {
+      "name": "social",
+      "value": "social"
+    },
+    {
+      "name": "investment_expenditure",
+      "value": "investment_expenditure"
+    },
+    {
+      "name": "shopping",
+      "value": "shopping"
+    },
+    {
+      "name": "entertainment",
+      "value": "entertainment"
+    },
+    {
+      "name": "loan",
+      "value": "loan"
+    },
+    {
+      "name": "other_expenses",
+      "value": "other_expenses"
+    },
+    {
+      "name": "salary",
+      "value": "salary"
+    },
+    {
+      "name": "bonus",
+      "value": "bonus"
+    },
+    {
+      "name": "interest",
+      "value": "interest"
+    },
+    {
+      "name": "invest",
+      "value": "invest"
+    },
+    {
+      "name": "part_time",
+      "value": "part_time"
+    },
+    {
+      "name": "red_envelope",
+      "value": "red_envelope"
+    },
+    {
+      "name": "borrow",
+      "value": "borrow"
+    },
+    {
+      "name": "other_income",
+      "value": "other_income"
+    },
+    {
+      "name": "expenditure",
+      "value": "expenditure"
+    },
+    {
+      "name": "income",
+      "value": "income"
+    },
+    {
+      "name": "bill_amount",
+      "value": "bill_amount"
+    },
+    {
+      "name": "statistics_details",
+      "value": "statistics_details"
+    },
+    {
+      "name": "monthly_bill",
+      "value": "monthly_bill"
+    },
+    {
+      "name": "annual_bill",
+      "value": "annual_bill"
+    },
+    {
+      "name": "home",
+      "value": "home"
+    },
+    {
+      "name": "statistics",
+      "value": "statistics"
+    },
+    {
+      "name": "back",
+      "value": "back"
+    },
+    {
+      "name": "no_expenses",
+      "value": "no_expenses"
+    },
+    {
+      "name": "no_income",
+      "value": "no_income"
+    },
+    {
+      "name": "by_date",
+      "value": "by_date"
+    },
+    {
+      "name": "by_category",
+      "value": "by_category"
+    },
+    {
+      "name": "all_expenses",
+      "value": "all_expenses"
+    },
+    {
+      "name": "all_income",
+      "value": "all_income"
+    },
+    {
+      "name": "save",
+      "value": "save"
+    },
+    {
+      "name": "make_another_note",
+      "value": "make_another_note"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "detail",
+      "value": "detail"
+    }
+  ]
+}

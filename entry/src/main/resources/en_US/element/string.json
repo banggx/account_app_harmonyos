@@ -1,0 +1,204 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "month_expenses",
+      "value": " Expenses this month"
+    },
+    {
+      "name": "unit",
+      "value": "yuan"
+    },
+    {
+      "name": "month_no_expenses",
+      "value": "No expenses this month"
+    },
+    {
+      "name": "income_month",
+      "value": " Income this month"
+    },
+    {
+      "name": "month_no_income",
+      "value": "No income yet"
+    },
+    {
+      "name": "empty_tip",
+      "value": " Where did my money go? Hurry up and record it."
+    },
+    {
+      "name": "diet",
+      "value": "diet"
+    },
+    {
+      "name": "healthy",
+      "value": "medical"
+    },
+    {
+      "name": "house",
+      "value": "housing"
+    },
+    {
+      "name": "snack",
+      "value": "snacks, tobacco and alcohol"
+    },
+    {
+      "name": "study",
+      "value": "study"
+    },
+    {
+      "name": "communicate",
+      "value": "communication"
+    },
+    {
+      "name": "social",
+      "value": "social"
+    },
+    {
+      "name": "investment_expenditure",
+      "value": "investment expenditure"
+    },
+    {
+      "name": "shopping",
+      "value": "shopping"
+    },
+    {
+      "name": "entertainment",
+      "value": "entertainment"
+    },
+    {
+      "name": "loan",
+      "value": "loan"
+    },
+    {
+      "name": "other_expenses",
+      "value": "other expenses"
+    },
+    {
+      "name": "salary",
+      "value": "salary"
+    },
+    {
+      "name": "bonus",
+      "value": "bonus"
+    },
+    {
+      "name": "interest",
+      "value": "interest"
+    },
+    {
+      "name": "invest",
+      "value": "invest"
+    },
+    {
+      "name": "part_time",
+      "value": "part time"
+    },
+    {
+      "name": "red_envelope",
+      "value": "red envelope transfer"
+    },
+    {
+      "name": "borrow",
+      "value": "borrow"
+    },
+    {
+      "name": "other_income",
+      "value": "other income"
+    },
+    {
+      "name": "expenditure",
+      "value": "expenditure"
+    },
+    {
+      "name": "income",
+      "value": "income"
+    },
+    {
+      "name": "bill_amount",
+      "value": "bill amount"
+    },
+    {
+      "name": "statistics_details",
+      "value": "Statistics details"
+    },
+    {
+      "name": "monthly_bill",
+      "value": "monthly bill"
+    },
+    {
+      "name": "annual_bill",
+      "value": "annual bill"
+    },
+    {
+      "name": "home",
+      "value": "home"
+    },
+    {
+      "name": "statistics",
+      "value": "statistics"
+    },
+    {
+      "name": "back",
+      "value": "back"
+    },
+    {
+      "name": "no_expenses",
+      "value": "no expenses"
+    },
+    {
+      "name": "no_income",
+      "value": "no income"
+    },
+    {
+      "name": "by_date",
+      "value": "by date"
+    },
+    {
+      "name": "by_category",
+      "value": "by category"
+    },
+    {
+      "name": "all_expenses",
+      "value": "all expenses"
+    },
+    {
+      "name": "all_income",
+      "value": "all income"
+    },
+    {
+      "name": "save",
+      "value": "save"
+    },
+    {
+      "name": "make_another_note",
+      "value": "Make another note"
+    },
+    {
+      "name": "transport",
+      "value": "transportation"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "detail",
+      "value": "Detail"
+    }
+  ]
+}
